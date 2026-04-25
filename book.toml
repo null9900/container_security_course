@@ -1,0 +1,6 @@
+[book]
+authors = ["Maysara Alhindi"]
+title = "Container Security - Lecture Notes" 
+
+[preprocessor.python]
+command = "python preprocessor.py"

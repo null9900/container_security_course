@@ -1,4 +1,4 @@
-# What is a container?
+# What Is a Container?
 
 |||objectives
 After this lecture, you should be able to answer the following:
@@ -16,7 +16,7 @@ You need boundaries. Each person's software should be isolated so they can't see
 
 **How do you do that?**
 
-![Containers-before-after](./week1/container_after_before.png)
+![Containers-before-after](./container_after_before.png)
 
 ### Why not Virtual Machines?
 
@@ -25,15 +25,15 @@ You need boundaries. Each person's software should be isolated so they can't see
 * Portability
 
 <div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="./week1/old_containers.jpg" style="width: 33%;" />
-  <img src="./week1/old_containers2.jpg" style="width: 33%;" />
-  <img src="./week1/new_containers.jpg" style="width: 33%;" />
+  <img src="./old_containers.jpg" style="width: 33%;" />
+  <img src="./old_containers2.jpg" style="width: 33%;" />
+  <img src="./new_containers.jpg" style="width: 33%;" />
 </div>
 
 
 The main difference between virtual machines and containers is **kernel sharing**.
 
-![Containers-old](./week1/container_vs_vm.png)
+![Containers-old](./container_vs_vm.png)
 
 ### Why is learning about containers important?
 * Because they are everywhere.

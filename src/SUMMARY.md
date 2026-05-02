@@ -1,4 +1,5 @@
 # Summary
 
 # Introduction to containers
-- [What is a container](./week1/lecture1.md)
+- [What Is a Container](./week1/lecture1.md)
+- [Running Your First Container](./week2/lecture2.md)

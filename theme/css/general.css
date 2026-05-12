@@ -225,7 +225,7 @@ div.info header {
     background-color: #e6f7ff; 
 }
 span.info-title::before {
-    content: "💡 Pro Tip";
+    content: "💡 Info";
     font-weight: bold;
 }
 

@@ -158,11 +158,11 @@ class LoggingHandler(SimpleHTTPRequestHandler):
         super().do_GET()
 
 print("Server running on port 8080")
-HTTPServer(("0.0.0.0", 8080), LoggingHandler).serve_forever()```
+HTTPServer(("0.0.0.0", 8080), LoggingHandler).serve_forever()
 
-Create an `index.html`:
 ```
 
+Create an `index.html`:
 ```html
 <h1>Hello from my container!</h1>
 ```
@@ -177,7 +177,7 @@ COPY index.html /app
 COPY app.py /app
 CMD ["python", "app.py"]
 VOLUME /app/data
-EXPOSE 8080```
+EXPOSE 8080
 ```
 
 Build and run:

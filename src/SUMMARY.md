@@ -4,3 +4,4 @@
 - [What Is a Container](./week1/lecture1.md)
 - [Running Your First Container](./week2/lecture2.md)
 - [Dockerfile](./week2/lecture3.md)
+- [Docker Compose](./week2/lecture4.md)

@@ -8,3 +8,4 @@
 
 # Container security
 - [Image Internals](./week3/lecture1.md)
+- [Image Scanning](./week3/lecture2.md)

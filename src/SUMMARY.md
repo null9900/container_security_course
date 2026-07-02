@@ -9,3 +9,9 @@
 # Container security
 - [Image Internals](./week3/lecture1.md)
 - [Image Scanning](./week3/lecture2.md)
+- [Container Escapes](./week3/lecture3.md)
+- [Denial of Service](./week3/lecture4.md)
+
+# Container Internals
+- [Namespaces](./week4/lecture1.md)
+- [Building a Container](./week4/lecture2.md)

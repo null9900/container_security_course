@@ -13,5 +13,4 @@
 - [Denial of Service](./week3/lecture4.md)
 
 # Container Internals
-- [Namespaces](./week4/lecture1.md)
-- [Building a Container](./week4/lecture2.md)
+- [Namespaces and Chroot](./week4/lecture1.md)
